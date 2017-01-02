@@ -1,3 +1,6 @@
+<h3><i>Reproducible Research Peer Graded Assignment 1</i></h3>
+<i>by Chinmoy Das</i>
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
